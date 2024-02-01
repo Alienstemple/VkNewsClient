@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">VkNewsClient</string>
     <string name="post_text">Hi! It\'s my post on /dev/null about Android</string>
+    <string name="navigation_item_main">Главная</string>
+    <string name="navigation_item_favourite">Избранное</string>
+    <string name="navigation_item_profile">Профиль</string>
 </resources>
